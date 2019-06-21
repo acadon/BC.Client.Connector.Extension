@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "ConnectorApp"
+		},
+		{
+			"path": "DevApp"
+		},
+		{
+			"path": "Scripts"
+		},
+		{
+			"path": "Docs"
+		}
+	],
+	"settings": {
+
+	}
+}

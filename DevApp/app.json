@@ -1,0 +1,34 @@
+{
+  "id": "bd36a7ef-3bf1-4267-8f12-96c0394c3ce8",
+  "name": "acadon_client.connector.dev",
+  "publisher": "acadon AG",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "Resource/logo.png",
+  "dependencies": [
+    {
+      "appId": "51f73749-16c5-4ec1-9264-17684f89f768",
+      "publisher": "acadon AG",
+      "name": "acadon_client.connector",
+      "version": "1.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "14.0.0.0",
+  "application": "14.0.0.0",
+  "idRanges": [
+    {
+      "from": 50200,
+      "to": 50249
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://docs.acadon.de/acadon_client.connector/1.0.0.0/{0}/",
+  "supportedLocales": ["de-DE", "en-US"],
+  "showMyCode": true,
+  "runtime": "3.0"
+}

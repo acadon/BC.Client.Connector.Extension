@@ -1,0 +1,31 @@
+.control {
+    background-image: url(../img/loading.gif);
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    height: 100%;
+}
+
+#operation {
+    font-size: 30pt;
+    font-family: "Segoe UI Light", "Segoe WP Light", device-segoe-light, "Segoe WP Semilight", "Segoe UI", "Segoe WP", Segoe, Tahoma, Helvetica, Arial, sans-serif;
+    font-weight: normal;
+    font-style: normal;
+    text-transform: none;
+    color: rgb(33, 33, 33);
+    width: 100%;
+    text-align: center;
+}
+
+#install {
+    font-size: 12pt;
+    font-family: "Segoe UI Light", "Segoe WP Light", device-segoe-light, "Segoe WP Semilight", "Segoe UI", "Segoe WP", Segoe, Tahoma, Helvetica, Arial, sans-serif;
+    font-weight: normal;
+    font-style: normal;
+    text-transform: none;
+    color: rgb(33, 33, 33);
+    width: 100%;
+    text-align: center;
+    padding-top: 30px;
+    display: none;
+}

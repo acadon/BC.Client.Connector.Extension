@@ -1,0 +1,3 @@
+*.app
+Docs/_site/*
+Docs/obj/*
