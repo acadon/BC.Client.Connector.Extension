@@ -1,0 +1,33 @@
+{
+  "id": "dd63b7b6-d7a1-4f00-9d7a-d285d35902a5",
+  "name": "SampleApp",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "appId": "51f73749-16c5-4ec1-9264-17684f89f768",
+      "publisher": "acadon AG",
+      "name": "acadon_client.connector",
+      "version": "1.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "14.0.0.0",
+  "application": "14.0.0.0",
+  "idRanges": [
+    {
+      "from": 50250,
+      "to": 50259
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://SampleApp.com/help/",
+  "showMyCode": true,
+  "runtime": "3.0"
+}
